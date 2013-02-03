@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "Röda och gröna transaktioner i Nordeas internetbank",
+		"description": "Det här tilläggets namn."
+	},
+	"extensionDescription": {
+		"message": "Det här tillägget färglägger transaktionerna i Nordeas internetbank så att negativa siffror blir röda och positiva siffror gröna.",
+		"description": "Det här tilläggets beskrivning."
+	}
+}

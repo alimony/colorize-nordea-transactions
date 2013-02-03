@@ -1,0 +1,9 @@
+{
+	"id": "jid1-onkVEc3gvAJsRQ",
+	"name": "colorize-nordea-transactions",
+	"fullName": "Red and green transactions in the Nordea internet bank",
+	"description": "This extension colorizes the transaction view when logged into the Nordea internet bank, making negative numbers red and positive numbers green.",
+	"author": "Markus Amalthea Magnuson",
+	"license": "MPL 2.0",
+	"version": "1.0"
+}

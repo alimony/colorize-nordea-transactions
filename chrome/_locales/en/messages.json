@@ -1,0 +1,10 @@
+{
+	"extensionName": {
+		"message": "Red and green transactions in the Nordea internet bank",
+		"description": "The name of this extension."
+	},
+	"extensionDescription": {
+		"message": "This extension colorizes the transaction view when logged into the Nordea internet bank, making negative numbers red and positive numbers green.",
+		"description": "The description of this extension."
+	}
+}
