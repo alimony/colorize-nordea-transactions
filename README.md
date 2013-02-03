@@ -5,7 +5,7 @@ This browser extension colorizes the transaction view when logged into the Norde
 
 ![Screenshot of transaction view](chrome/img/chrome-promo.png?raw=true)
 
-The repository contains a Chrome extension and a Firefox add-on, both sharing the same JavaScript and CSS files. It seems like Chrome does not like symlinked files when loading the code, so the originals is in the `chrome` folder, with the Firefox add-on symlinking to them relatively.
+The repository contains a Chrome extension and a Firefox add-on, both sharing the same JavaScript and CSS files. It seems like Chrome does not like symlinked files when loading code, so the originals are in the `chrome` folder, with the Firefox add-on symlinking to them relatively.
 
 Installation for Chrome
 -----------------------
@@ -17,4 +17,4 @@ Choose "Open file…" from the File menu, choose the file `colorize-nordea-trans
 
 Development
 -----------
-This is still a work in progress, not yet ready for public release. The extension will hopefully be distributed through the Chrome and Mozilla web stores.
+This is still a work in progress, not yet ready for public release. The extension will hopefully be distributed through the Chrome and Mozilla web stores. For more information on extension development and how to build/use this code, see the [Google Chrome Extensions](http://developer.chrome.com/extensions/index.html) documentation and the Mozilla [Add-on SDK Documentation](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/index.html).
